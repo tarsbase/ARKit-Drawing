@@ -9,9 +9,10 @@ in freeflow. Alternatively, add images for detection in [Assests.xcassets/AR Res
 and place objects on images. Select object/scence file from Options or undo last move, reset scene etc.
 You can also drag your finger around (plane mode only) to draw multiple objects.
 
+<p float="center">
 <img src="common/video.gif" width="270" height="480" />
 <img src="common/video2.gif" width="270" height="480" />
-
+</p>
 
 ## Credits
 * Apple ARKit Documentation and Tutorials: https://developer.apple.com/arkit/
