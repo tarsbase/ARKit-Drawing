@@ -10,7 +10,6 @@ and place objects on images. Select object/scence file from Options or undo last
 You can also drag your finger around (plane mode only) to draw multiple objects.
 
 <img src="common/video.gif" width="270" height="480" />
-<br/><br/>
 <img src="common/video2.gif" width="270" height="480" />
 
 
